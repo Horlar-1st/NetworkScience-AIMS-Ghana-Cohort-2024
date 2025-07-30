@@ -75,3 +75,7 @@ The analysis is guided by the following key questions:
   - `matplotlib`, `seaborn` – Static plotting
   - `community` – Louvain community detection
 
+---
+## Library Needed 
+- **Community** - `pip install python-louvain`
+- **Networkx** - `pip install networkx`
